@@ -1,4 +1,4 @@
-package day1;
+package com.trng.d3;
 import java.util.Scanner;
 
 class Circle {
